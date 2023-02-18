@@ -13,4 +13,4 @@ Output
 
    simple interest = p*t*r
    
-   Fixed by KaShie
+   Revert by KaShie and second pull request
